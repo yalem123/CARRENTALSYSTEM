@@ -2,6 +2,8 @@
 this project is online car rental system called Enku Rental developed for my phase two graduation requirement @nedameco africa
 october 2023
 yalembrhan kelayneh
+## project description
+this web app is develop using python with the framework of django and for the back end used mysql
 ## Screenshots
 ### Home Page
 ![home] https://www.awesomescreenshot.com/video/22127130?key=db5d671e41048c83bc75313f12a9f8d9
