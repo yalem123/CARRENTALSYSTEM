@@ -1,4 +1,4 @@
-# Car_Rental_System
+# Enku Rental
 this project is online car rental system called Enku Rental developed for my phase two graduation requirement @nedameco africa
 october 2023
 yalembrhan kelayneh
